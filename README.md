@@ -55,6 +55,53 @@ Click here to access the Dataset for this project: "(https://www.kaggle.com/data
 ![image](https://github.com/DataScience-Project-New-Group-4/Employee-Churn/assets/136507704/5d2bf563-f904-4ded-bfb7-9b1bc6c524b5)
 
 
+**Methodology**
+
+Clean and prepocess data by handling outliers, dropping unnecessary columns and renaming columns.
+
+**Exploratory data analysis**
+
+Analyze relationships between churn and various employee attributes (gender, department, salary) using visualization (Bar chart, pie chart and histogram.
+
+Calculate the overall churn rate in counts and percentage.
+
+**Model development**
+
+Choose appropriate machine learning algorithms such as Logistic Regression, Random Fores, Decision tree.
+
+Encode categorical variables (One hot encoding, label encoding).
+
+Split the data into training and testing set.
+
+**Model interpretation**
+
+Identify the key indicators that contribute most to employee churn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
 
 
 
